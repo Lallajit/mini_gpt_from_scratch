@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+myvenv/
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+
+# Training data
+corpus.txt
+
+# Logs
+*.log
