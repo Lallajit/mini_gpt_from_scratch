@@ -141,7 +141,7 @@ example: human animal
 - It is not comparable to large pretrained language models such as ChatGPT.
 - The model predicts the next token rather than performing reliable question answering.
 
-## 10. Future Improvements
+# 10. Future Improvements
 
 - Increase the size and quality of the training dataset.
 - Experiment with larger vocabulary sizes.
@@ -151,7 +151,7 @@ example: human animal
 - Experiment with temperature and top-k sampling.
 - Evaluate generated text quality.
 
-## 11. Learning Outcomes
+# 11. Learning Outcomes
 
 Through this project, I explored the internal working of GPT-style language models and gained practical experience implementing:
 
